@@ -1,11 +1,10 @@
 # Task 2 – Python Problem-Solving Practice
 
 ## Overview
-This task focuses on solving Python programming problems using a structured problem-solving approach, logical reasoning, and reusable functions.
+This task focuses on solving 20 Python programming problems using logical reasoning, structured problem-solving techniques, and reusable functions.
 
-## Files Included
-- Task_2_Python_Problem_Solving_Q1-Q20.ipynb`** – Jupyter Notebook containing solutions to 20 Python problems, with explanations and test cases.
-- Task_2_Python_Problem_Solving_Q1-Q20.py`** – Python script containing the solutions, if included in the submission.
+## File Included
+- `Task_2_Python_Problem_Solving_Q1-Q20.ipynb` – Jupyter Notebook containing solutions to 20 Python problems, along with explanations and test cases.
 
 ## Topics Covered
 - Python functions
@@ -23,15 +22,11 @@ This task focuses on solving Python programming problems using a structured prob
 
 ## How to Run
 1. Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab.
-2. Run the cells in order.
+2. Execute the notebook cells in order.
 3. Review the solutions, explanations, and test outputs.
 
-To run the Python script, if included, use:
-
-```bash
-python Task_2_Python_Problem_Solving_Q1-Q20.py
-```
-
-## Learning Outcome
-Developed structured problem-solving skills, practiced implementing Python solutions, and learned to validate results using test cases.
-
+## Learning Outcomes
+- Improved Python programming skills.
+- Developed logical thinking and problem-solving abilities.
+- Practiced writing reusable functions.
+- Learned to test solutions using different inputs and edge cases.
