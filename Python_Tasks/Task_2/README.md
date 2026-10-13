@@ -6,7 +6,7 @@ This task focuses on solving 20 Python programming problems using logical reason
 
 ## File Included
 
-- Task_2_Python_Problem_Solving_Q1-Q20.ipynb – Jupyter Notebook containing solutions to 20 Python problems, explanations, and test cases.
+- `Task_2_Python_Problem_Solving_Q1-Q20.ipynb` – Jupyter Notebook containing solutions to 20 Python problems, explanations, and test cases.
 
 ## Topics Covered
 
