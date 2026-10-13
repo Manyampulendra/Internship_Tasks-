@@ -1,12 +1,15 @@
 # Task 2 – Python Problem-Solving Practice
 
 ## Overview
+
 This task focuses on solving 20 Python programming problems using logical reasoning, structured problem-solving techniques, and reusable functions.
 
 ## File Included
-- `Task_2_Python_Problem_Solving_Q1-Q20.ipynb` – Jupyter Notebook containing solutions to 20 Python problems, along with explanations and test cases.
+
+- Task_2_Python_Problem_Solving_Q1-Q20.ipynb – Jupyter Notebook containing solutions to 20 Python problems, explanations, and test cases.
 
 ## Topics Covered
+
 - Python functions
 - Strings and lists
 - Conditional statements and loops
@@ -17,16 +20,19 @@ This task focuses on solving 20 Python programming problems using logical reason
 - Test cases and edge cases
 
 ## Technologies Used
+
 - Python 3
 - Jupyter Notebook
 
 ## How to Run
+
 1. Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab.
 2. Execute the notebook cells in order.
 3. Review the solutions, explanations, and test outputs.
 
 ## Learning Outcomes
+
 - Improved Python programming skills.
 - Developed logical thinking and problem-solving abilities.
 - Practiced writing reusable functions.
-- Learned to test solutions using different inputs and edge cases.
+- Learned to validate solutions using test cases and edge cases.
