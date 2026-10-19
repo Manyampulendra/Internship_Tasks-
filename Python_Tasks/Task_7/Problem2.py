@@ -1,34 +1,9 @@
 Problem 2:
 Hackerank:
-#!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
+K = int(input())
+rooms = list(map(int, input().split()))
 
-def marsExploration(s):
-    expected = "SOS" * (len(s) // 3)
-    count = 0
+unique_rooms = set(rooms)
 
-    for i in range(len(s)):
-        if s[i] != expected[i]:
-            count += 1
-
-    return count
-    
-
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    s = input()
-
-    result = marsExploration(s)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
-    
-
-
+print((sum(unique_rooms) * K - sum(rooms)) // (K - 1))
